@@ -19,3 +19,6 @@
 [submodule "codonhooks"]
 	path = codonhooks
 	url = git://github.com/openruko/codonhooks.git
+[submodule "fake-s3"]
+	path = fake-s3
+	url = git://github.com/jubos/fake-s3.git
