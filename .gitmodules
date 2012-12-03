@@ -1,24 +1,24 @@
 [submodule "apiserver"]
 	path = apiserver
-	url = git://github.com/openruko/apiserver.git
+	url = https://github.com/openruko/apiserver.git
 [submodule "rukorun"]
 	path = rukorun
-	url = git://github.com/openruko/rukorun.git
+	url = https://github.com/openruko/rukorun.git
 [submodule "logplex"]
 	path = logplex
-	url = git://github.com/openruko/logplex.git
+	url = https://github.com/openruko/logplex.git
 [submodule "gitmouth"]
 	path = gitmouth
-	url = git://github.com/openruko/gitmouth.git
+	url = https://github.com/openruko/gitmouth.git
 [submodule "dynohost"]
 	path = dynohost
-	url = git://github.com/openruko/dynohost.git
+	url = https://github.com/openruko/dynohost.git
 [submodule "client"]
 	path = client
-	url = git://github.com/openruko/client.git
+	url = https://github.com/openruko/client.git
 [submodule "codonhooks"]
 	path = codonhooks
-	url = git://github.com/openruko/codonhooks.git
+	url = https://github.com/openruko/codonhooks.git
 [submodule "fake-s3"]
 	path = fake-s3
-	url = git://github.com/jubos/fake-s3.git
+	url = https://github.com/jubos/fake-s3.git
